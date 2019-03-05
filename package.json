@@ -1,6 +1,6 @@
 {
   "name": "@henrikjoreteg/preset-preact",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "babel 7 compatible babel preset for preact",
   "main": "index.js",
   "scripts": {
