@@ -3,12 +3,8 @@
   "version": "1.0.0",
   "description": "babel 7 compatible babel preset for preact",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Henrik Joreteg",
+  "license": "MIT",
   "prettier": {
     "semi": false,
     "singleQuote": true
@@ -16,5 +12,13 @@
   "dependencies": {
     "@babel/plugin-syntax-jsx": "^7.2.0",
     "@babel/plugin-transform-react-jsx": "^7.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenrikJoreteg/preset-preact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HenrikJoreteg/preset-preact/issues"
+  },
+  "homepage": "https://github.com/HenrikJoreteg/preset-preact#readme"
 }
